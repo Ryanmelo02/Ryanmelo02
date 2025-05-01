@@ -29,7 +29,6 @@ Sou um desenvolvedor web em formação com foco em desenvolvimento Full Stack. G
 
 - 📧 Email: [sou.ryanmelo@gmail.com](mailto:sou.ryanmelo@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ryangademelo](https://linkedin.com/in/ryangademelo)  
-- 📸 Instagram: [@ryan_melo.02](https://instagram.com/ryan_melo.02)  
 
 😄 **Pronomes**: Ele/Dele  
 ⚡ **Curiosidade**: Já fui monitor de ônibus e guia turístico e vencedor de loja! 😄
