@@ -1,9 +1,7 @@
-# 👋 Olá! Eu sou o Ryan Gabriel Almeida de Melo
+# 👋 Olá! Eu sou o Ryan de Melo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)  
-💻 Apaixonado por tecnologia e desenvolvimento web  
-🌱 Atualmente aprendendo HTML, CSS, JavaScript, Java e Python  
-📚 Buscando oportunidades para aplicar meus conhecimentos em projetos reais  
+🎓 Analista e Desenvolvedor de Sistemas
+💻 Apaixonado por tecnologia e desenvolvimento web     
 📍  São Paulo, Brasil  
 
 ## 🚀 Sobre mim
@@ -12,12 +10,10 @@ Sou um desenvolvedor web em formação com foco em desenvolvimento Full Stack. G
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- HTML, CSS (Intermediário)  
-- Java, Python, JavaScript, PHP, C (Básico)  
-- SQL, Estrutura de Dados  
-- Git, GitHub  
-- Linux (LFS101), Redes (LAN, Wi-Fi)  
-- Office, Inglês Intermediário
+- Backend: Java, C, SQl (MySQL)  
+- Frontend: HTML, CSS, JavaScript  
+- Office: B2
+- Inglês: A2 
 
 ## 🤝 Estou aberto a colaborar em:
 
@@ -29,9 +25,6 @@ Sou um desenvolvedor web em formação com foco em desenvolvimento Full Stack. G
 
 - 📧 Email: [sou.ryanmelo@gmail.com](mailto:sou.ryanmelo@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ryangademelo](https://linkedin.com/in/ryangademelo)  
-
-😄 **Pronomes**: Ele/Dele  
-⚡ **Curiosidade**: Já fui monitor de ônibus e guia turístico e vencedor de loja! 😄
 
 ---
 
